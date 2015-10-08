@@ -329,3 +329,7 @@
 #zoombox.simple .multimedia .zoombox_next,#zoombox.simple .multimedia .zoombox_prev{
 	display:block;
 }
+
+#toto{
+	width: 100%;
+}
